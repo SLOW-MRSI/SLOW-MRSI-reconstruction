@@ -1,6 +1,6 @@
 # SLOW-MRSI reconstruction
 
-Download the MATLAB scripts and helper functions from [Download slow-mrsi-reconstruction-v2-20260817.zip](https://github.com/SLOW-MRSI/slow-mrsi-reconstruction/releases/download/v2-20260817/slow-mrsi-reconstruction-v2-20260817.zip)
+Download the MATLAB scripts and helper functions from [Download SLOW-MRSI reconstruction.zip](https://github.com/SLOW-MRSI/slow-mrsi-reconstruction/releases/download/20260817_v2/SLOW.recon_20260817_v2.zip)
 
 
 MATLAB scripts for reconstruction, draft metabolite-map generation, and spectrIm export of SLOW-MRSI time-resolved EPSI data.
