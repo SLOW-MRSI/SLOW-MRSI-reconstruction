@@ -164,7 +164,7 @@ if ~isfield(cfg, 'phaseApodizationHz') || isempty(cfg.phaseApodizationHz)
     cfg.phaseApodizationHz = 10;
 end
 if ~isfield(cfg, 'phaseSearchPpm') || isempty(cfg.phaseSearchPpm)
-    cfg.phaseSearchPpm = [2.6, 3.5];
+    cfg.phaseSearchPpm = [2.9, 3.5];
 end
 if cfg.scannerFrequencyMHz > 297
     outputLinewidthHz = struct('ful', 15, 'par', 15, 'dif', 25, 'wat', 10);
